@@ -10,34 +10,34 @@
 </p>
 
 
-<h2 align="center">Mi Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dsanti-ago&show_icons=true&locale=en&layout=compact" alt="dsanti-ago" />
 </p>
 
-<h4 align="center">Lenguajes de programación</h4>
+<h4 align="center">Programming languages</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=javascript,ts,python,php" />
 </p>
-<h4 align="center">Tecnologías Front End</h4>
+<h4 align="center">Front End Technologies</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,react,angular,redux,nextjs,astro" />
 </p>
-<h4 align="center">Tecnologías Back End</h4>
+<h4 align="center">Back End Technologies</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,graphql" />
 </p>
 
-<h4 align="center">Base de datos</h4>
+<h4 align="center">Databases</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,sqlite" />
 </p>
-<h4 align="center">Otras tecnologías</h4>
+<h4 align="center">Other technologies</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,githubactions,azure,docker,wordpress,electron,graphql,vite" />
 </p>
 
-<h2 align="center">Contecta conmigo</h2>
+<h2 align="center">Contact me</h2>
 <p align="center">
   <a href="https://github.com/dsanti-ago">
     <img src="https://skillicons.dev/icons?i=github" />
