@@ -25,7 +25,7 @@
 </p>
 <h4 align="center">Back End Technologies</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi" />
 </p>
 
 <h4 align="center">Databases</h4>
